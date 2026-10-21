@@ -1,2 +1,2 @@
 # dio_dashboard
-Dashboard para estudo
+Dashboard XBOX DIO projeto
